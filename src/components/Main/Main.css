@@ -174,4 +174,11 @@
     .result{
         height: 650px;
     }
+    .card{
+        display: none;
+    }
+    .main .greet{
+        text-align: center;
+        margin-top: 100px;
+    }
 }
